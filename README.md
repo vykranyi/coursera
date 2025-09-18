@@ -1,2 +1,3 @@
 # coursera
-this is a repo for learning projects
+this is a repo for cursera projects
+
